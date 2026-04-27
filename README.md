@@ -104,5 +104,5 @@ This portfolio project was built as part of my transition into a **Data Analyst*
 
 ## 🔗 Connect With Me
 
-- 💼 [LinkedIn]linkedin.com/in/ranim-c-07571836a
-- 🐙 [GitHub]
+- 💼 [LinkedIn](https://linkedin.com/in/ranim-c-07571836a)
+- 🐙 [GitHub](https://github.com/Renno2683)
