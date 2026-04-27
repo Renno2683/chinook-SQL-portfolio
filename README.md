@@ -1,1 +1,1 @@
-# chinook-SQL-portfolio
+# Chinook-SQL-Portfolio
